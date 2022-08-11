@@ -1,0 +1,15 @@
+{
+  "name": "nlw",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "npm": "^8.13.1",
+    "nunjucks": "^3.2.3",
+    "sqlite3": "^5.0.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
