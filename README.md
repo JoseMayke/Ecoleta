@@ -1,4 +1,5 @@
-# Ecoleta
+<img width="200" src="https://github.com/JoseMayke/Ecoleta/blob/main/public/assets/logo.svg" />
+
 ---
 Bem, depois de muito tempo do lançamento desse projeto, cumpri a promessa em fazê-lo para ver a didática e revisar meus conhecimentos que foi uma ótima experiência.
 
